@@ -1,0 +1,37 @@
+[
+    {
+        "Name": "Shubham Maharana",
+        "DOB": "12-05-2001",
+        "Height": 175.0,
+        "City": "Pune",
+        "State": "Maharashtra"
+    },
+    {
+        "Name": "Shraddhesh Tangade",
+        "DOB": "27-01-2001",
+        "Height": 180.0,
+        "City": "Pune",
+        "State": "Maharashtra"
+    },
+    {
+        "Name": "Sampada Kshirsagar",
+        "DOB": "11-07-1998",
+        "Height": 150.0,
+        "City": "Latur",
+        "State": "Maharashtra"
+    },
+    {
+        "Name": "Rajesh Naik",
+        "DOB": "15-07-1996",
+        "Height": 180.0,
+        "City": "Balangir",
+        "State": "Orissa"
+    },
+    {
+        "Name": "Rahul Naik",
+        "DOB": "12-6-2002",
+        "Height": 176.0,
+        "City": "Balangir",
+        "State": "Orissa"
+    }
+]
